@@ -1,15 +1,22 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Charmonman:wght@700&family=Lato&display=swap');
 .top{
     /* height: 200px; */
     background-color: #f3ee8c;
     position: relative;
     padding-top: 100px;
+    font-family: 'Lato', sans-serif;
+}
+.thename
+{
+    font-family: 'Charmonman', cursive;
 }
 .middle{
     background-color: #FAC213;
+    font-family: 'Lato', sans-serif;
 }
 .bottom{
     background-color: #F77E21;
+    font-family: 'Lato', sans-serif;
 }
 .top_cloud
 {
@@ -35,7 +42,6 @@ h2{
 body{
     margin: 0px;
     text-align: center;
-    font-family: 'Lato', sans-serif;
 }
 p{
     margin: 0px;
